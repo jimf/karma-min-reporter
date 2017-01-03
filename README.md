@@ -7,6 +7,8 @@ Minimal [Karma][] test reporter that mimics mocha's min reporter.
 [![Test Coverage][coverage-badge]][coverage-result]
 [![Dependency Status][dep-badge]][dep-status]
 
+![screenshot](screenshot.png)
+
 ## Installation
 
 Install using npm:
